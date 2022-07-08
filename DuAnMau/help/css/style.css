@@ -1,0 +1,30 @@
+#menu_top{
+    background:rgb(167, 197, 236);
+    height: 50px;
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#menu_top ul{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+#menu_top ul li{
+    list-style: none;
+    float:left;
+}
+
+#menu_top ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    height: 50x;
+    line-height: 50px;
+    padding: 0px 42px 0px 45px;
+    border-right: 1px solid #f1f1f1;
+}
+.menu-nho{
+    position: relative;
+}
